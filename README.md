@@ -1,12 +1,31 @@
-# React + Vite
+# 🎬 Movie App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Movie Application** built with **React + Vite**, styled using **Tailwind CSS**, and powered by the **TMDB API** for fetching real-time movie data.  
+Deployed seamlessly on **Vercel 🚀**.  
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [Movie App](https://movie-application-jet.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Browse movies with **posters, release dates & genres**  
+- ❤️ Add / Remove movies from your **Watchlist**  
+- 🔍 Search movies easily by title  
+- 🎭 Filter movies by **genre**  
+- 📱 Fully responsive design (mobile, tablet, desktop)  
+- 🌍 Cross-browser compatibility  
+- 🚀 Deployed using **Vercel**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend**: React (Vite) ⚛️  
+- **Styling**: Tailwind CSS 🎨 + Custom CSS  
+- **API**: [TMDB API](https://www.themoviedb.org/documentation/api) 🌐  
+- **Deployment**: Vercel 🚀  
+
+---
+
+Thanks for visiting my Page...
